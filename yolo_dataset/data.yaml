@@ -1,0 +1,6 @@
+path: /home/naki/Desktop/Y'all aint seen shit/YOLO Vehicle number plate /yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: licence
