@@ -1,0 +1,20 @@
+# Environments
+yoloenv/
+.venv/
+__pycache__/
+*.pyc
+
+# Logs
+server.log
+*.log
+
+# Temporary files
+tmp/
+annotated.mp4
+tmp_upload.mp4
+
+# Data files - too large for git
+data/
+yolov8n.pt
+runs_yolo/
+archive.zip
